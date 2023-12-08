@@ -1,0 +1,5 @@
+package com.restapis.controllers;
+
+public class AuthController {
+
+}

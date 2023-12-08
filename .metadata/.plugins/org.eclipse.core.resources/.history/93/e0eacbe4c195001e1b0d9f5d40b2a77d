@@ -1,0 +1,5 @@
+package com.restapis.security;
+
+public class JwtAuthenticationEntryPoint {
+
+}

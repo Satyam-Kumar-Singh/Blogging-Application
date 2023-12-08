@@ -1,0 +1,5 @@
+package com.restapis.exceptions;
+
+public class ResourceNotFoundException {
+
+}

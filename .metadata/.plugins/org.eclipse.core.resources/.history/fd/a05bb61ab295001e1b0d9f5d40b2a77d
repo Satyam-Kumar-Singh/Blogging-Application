@@ -1,0 +1,5 @@
+package com.restapis.config;
+
+public class SwaggerConfig {
+
+}

@@ -1,0 +1,5 @@
+package com.restapis.repositories;
+
+public interface CategoryRepo {
+
+}
